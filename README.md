@@ -3,6 +3,10 @@ Object-Relational Mapping (ORM): E-Commerce Back End
 
 Demonstration video including walkthrough of the functionalities : https://youtu.be/dJV0XzXjZ30
 
+Demo Images: ![Afsha's BE ORM Demo Image1](./assets/img1.png)
+![Afsha's BE ORM Demo Image2](./assets/img2.png)
+![Afsha's BE ORM Demo Image3](./assets/img3.png)
+
 ## Objectives & Functionalities:
 
 1. To build the backend for an e-commerce site by using MVP, express, mysql2 and sequilize.
