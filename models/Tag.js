@@ -12,6 +12,10 @@ Tag.init(
       autoIncrement: true,
       allowNull: false
     },
+    tag_name: {
+      type: DataTypes.STRING,
+      allowNull: false
+    }
   },
   {
     sequelize,
